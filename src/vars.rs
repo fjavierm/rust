@@ -1,5 +1,5 @@
 // Variables hold primitive data or references to data
-// Variables are inmutable by default
+// Variables are immutable by default
 // Rust is a block-scoped language
 
 pub fn run() {
